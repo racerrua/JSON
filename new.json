@@ -1,7 +1,9 @@
 {
-	"Full name": [
-		"Suchkov", "Dmitrii", "Alexandrovych"	
-	],
+	"Full name": {
+		"LastName":  "Suchkov", 
+		"FirstName": "Dmitrii", 
+		"ThirdName": "Alexandrovych"	
+	},
 	"Age": 34,
 	"Number of pets": 0,
 	"Earn": "5000$"
