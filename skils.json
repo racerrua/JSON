@@ -8,7 +8,7 @@
 		"Testing API by Postman", 
 		"Get and read logs from outside servers",
 		"Sniffing http web traffic by Charles and Fiddler",
-		"Dev Tools of web browsers": ["Chrome", "FireFox", "Opera"],
+		"DevToolsOfWebBrowsers": ["Chrome", "FireFox", "Opera"],
 		"VPN",
 		"Mobule Testing"
 	]
