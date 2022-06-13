@@ -1,9 +1,9 @@
 {
   "id": 1,
   "title": "Very BIG Bug",
-  "Platform": "9¾",
-  "Priority": "The most importent",
-  "Description": "What the fuck?",
-  "Steps_to_reproduce": "Just do it!",
-  "Screenshot": "(͡° ͜ʖ ͡°) (͡°╭͜ʖ╮͡°) (✷‿✷))¯\_(ツ)_/¯ (V)(;,;)(V) (>^.^)>(^*o*)^"
+  "platform": "9¾",
+  "priority": "The most importent",
+  "description": "What the fuck?",
+  "steps_to_reproduce": "Just do it!",
+  "screenshot": "(͡° ͜ʖ ͡°) (͡°╭͜ʖ╮͡°) (✷‿✷))¯\_(ツ)_/¯ (V)(;,;)(V) (>^.^)>(^*o*)^"
 }
